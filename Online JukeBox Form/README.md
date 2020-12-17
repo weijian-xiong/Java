@@ -88,7 +88,7 @@ Add this to the opening window
 ```
 */10 * * * * sh ~/path/to/dos_without_reCAPTCHA.sh
 ```
-In my case, cron job will run "dos_without_reCAPTCHA.sh" every 1o mins every day.
+In my case, cron job will run "dos_without_reCAPTCHA.sh" every 10 mins every day.
 
 [Cron job format](https://support.acquia.com/hc/en-us/articles/360004224494-Cron-time-string-format)<br>
 
